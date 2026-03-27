@@ -18,4 +18,8 @@ pushed during the windup time for the explosion.
 Controls 
 -WASD for walking (arrow keys for player 2). 
 -SPACE for dropping bombs (numpad1 for player 2).  
-https://github.com/user-attachments/assets/33689147-51a9-4eb8-95c2-65183ad7e2bc
+
+
+https://github.com/user-attachments/assets/6a1f655f-d580-4b4d-beb3-661920c851d9
+
+
