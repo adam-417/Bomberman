@@ -5,7 +5,7 @@ placing bombs that explode and picking up power ups.
 
 Objective 
 -A player wins when the other dies. 
--Use powerups to gain an advantage.
+ -Use powerups to gain an advantage.
 
 Features 
 -Walking in 4 directions  
